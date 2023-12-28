@@ -2,6 +2,11 @@
 
 A Flutter application that shows nearby Restaurants and Cafes using Google Places API
 
+|                                       |                                       |
+|----------------------------------------------|----------------------------------------------|
+| ![image1](https://github.com/osmseferoglu/Flutter_GoogleMap/blob/9a4566d235877e4f2a2c8b0ba8f7be9bdf03b534/assets/Untitled%203.1.jpeg) | ![image2](https://github.com/osmseferoglu/Flutter_GoogleMap/blob/9a4566d235877e4f2a2c8b0ba8f7be9bdf03b534/assets/Untitled%203.2.jpeg) |
+
+
 ## Packages Used
 
 - [cupertino_icons](https://pub.dev/packages/cupertino_icons): ^1.0.2
