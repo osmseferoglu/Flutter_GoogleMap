@@ -1,16 +1,39 @@
-# flutter_map
+# Flutter App
 
-A new Flutter project.
+A Flutter application that shows nearby Restaurants and Cafes using Google Places API
+
+## Packages Used
+
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons): ^1.0.2
+- [google_maps_flutter](https://pub.dev/packages/google_maps_flutter): ^2.5.0
+- [permission_handler](https://pub.dev/packages/permission_handler): ^11.1.0
+- [geolocator](https://pub.dev/packages/geolocator): ^10.1.0
+- [url_launcher](https://pub.dev/packages/url_launcher): ^6.2.1
+- [path](https://pub.dev/packages/path): ^1.8.3
+- [hive](https://pub.dev/packages/hive): ^2.2.3
+- [hive_flutter](https://pub.dev/packages/hive_flutter): ^1.1.0
+- [path_provider](https://pub.dev/packages/path_provider): ^2.1.1
+- [cached_network_image](https://pub.dev/packages/cached_network_image): ^3.3.0
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository:**
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   git clone https://github.com/your-username/flutter-app.git
+2. **Navigate to Project Directory:**
+   ```
+   cd Flutter_GoogleMap
+3. **Install dependencies:**
+   ```
+   flutter pub get
+4. **Run the app:**
+   ```
+   flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Additional Information**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app uses Google Maps for location services, so make sure to provide the necessary API key in the appropriate configuration files.
+For Hive, make sure to initialize Hive before using any Hive features. Check the Hive documentation for more details.
+Feel free to explore the code and customize it according to your requirements. If you encounter any issues or have suggestions, please open an issue or submit a pull request.
+
